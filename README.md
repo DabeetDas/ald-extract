@@ -1,6 +1,6 @@
 # ALD-Extract: Multi-Agent Extraction and Database Creation for Atomic Layer Deposition
 
-This repository contains the core programmatic modules used for the compilation, extraction, and validation of thin-film ALD (Atomic Layer Deposition) properties from academic literature using Large Language Models (LLMs). This minimal codebase represents the methodology discussed in our study on accelerating ALD research with Generative AI.
+This repository contains the core programmatic modules used for the compilation, extraction, and validation of thin-film ALD (Atomic Layer Deposition) properties from academic literature using Large Language Models (LLMs). This codebase represents the methodology discussed in our study on accelerating ALD research with Generative AI.
 
 
 ## Codebase Organization
