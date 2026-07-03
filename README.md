@@ -2,7 +2,6 @@
 
 This repository contains the core programmatic modules used for the compilation, extraction, and validation of thin-film ALD (Atomic Layer Deposition) properties from academic literature using Large Language Models (LLMs). This minimal codebase represents the methodology discussed in our study on accelerating ALD research with Generative AI.
 
-> **Note**: This is the supplementary code accompanying the manuscript. Data files, language model weights, full benchmark outputs, and the visualization web app are excluded to maintain brevity for review.
 
 ## Codebase Organization
 
