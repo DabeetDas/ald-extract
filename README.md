@@ -24,7 +24,7 @@ ald-extract/
 ### 1. Data Collection (`data_collection/`)
 Scripts used to gather publication metadata and acquire literature source files.
 - `scrape.py`: Harvests basic bibliographic data (e.g. from Elsevier) based on query parameters.
-- `doi2pdf.py` & `scihub.py`: Utilitarian scripts for securely mapping DOIs to PDF literature via API wrappers/mirrors.
+- `doi2pdf.py`: Utilitarian script for securely mapping DOIs to PDF literature via API wrappers/mirrors.
 
 ### 2. Preprocessing (`preprocessing/`)
 Translates unstructured PDFs into structured inputs for the LLM. 
